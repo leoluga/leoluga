@@ -4,16 +4,16 @@
 
 ## 👨‍🎓 About Me
 
-I am an Aerospace Engineering student at the Aeronautics Institute of Technology (ITA) with a strong academic background and hands-on experience in programming and engineering. I am passionate about space technology, quantitative finance, and full-stack development. My journey is driven by curiosity and a desire to apply my skills to real-world challenges.
+I am a nearly graduated Aerospace Engineering student at the Aeronautics Institute of Technology (ITA) with a strong academic background and hands-on experience in programming and engineering. I am passionate about space technology, quantitative finance, and full-stack development. My journey is driven by curiosity and a desire to apply my skills to real-world challenges. Currently, I am interning at Legacy Capital, where I work on a volatility table, applying my skills in Python, C, MATLAB, React, HTML, CSS, and JavaScript. As I approach graduation, I am excited to begin my master's degree in physics, focusing on machine learning.
 
-- **🎓 Education:** Aerospace Engineering at ITA (GPA: 9.0) - Expected Graduation: Dec 2024
+- **🎓 Education:** Aerospace Engineering at ITA (GPA: 8.9) - Expected Graduation: Dec 2024
 - **🌍 Cultural Exchange:** South Africa - C2 Level English Certification
 - **📫 Contact:** leonardo.lugarini@ga.ita.br | +55 (41) 99659-2226
 
 ## 💻 Skills
 
-- **Programming Languages:** Python, C++, MATLAB, HTML, CSS
-- **Tools & Technologies:** Azure DevOps, Git, Git Flow, SQLAlchemy, Flask, JS, AG Grid, Python Dash
+- **Programming Languages:** Python, C++, MATLAB, JavaScrit
+- **Tools & Technologies:** Azure DevOps, Git, Git Flow, SQLAlchemy, Flask, JS, AG Grid, Python Dash, HTML/CSS
 - **Software Packages:** Microsoft Office (VBA), Adobe Suite
 - **Development Experience:** Front-end development, back-end development, full-time office work
 
