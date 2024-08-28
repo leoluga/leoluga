@@ -8,7 +8,7 @@ I am a nearly graduated Aerospace Engineering student at the Aeronautics Institu
 
 - **🎓 Education:** Aerospace Engineering at ITA (GPA: 8.9) - Expected Graduation: Dec 2024
 - **🌍 Cultural Exchange:** South Africa - C2 Level English Certification
-- **📫 Contact:** leonardo.lugarini@ga.ita.br | +55 (41) 99659-2226
+- **📫 Contact:** lugaleonardo@gmail.com | +55 (41) 99659-2226
 
 ## 💻 Skills
 
