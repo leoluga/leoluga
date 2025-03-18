@@ -6,7 +6,7 @@
 
 I am a graduated Aerospace Engineer at the Aeronautics Institute of Technology (ITA) with a strong academic background and hands-on experience in programming and engineering. I am passionate about space technology, quantitative finance, and full-stack development. My journey is driven by curiosity and a desire to apply my skills to real-world challenges. Currently, I am interning at Legacy Capital, where I work on a volatility table, applying my skills in Python, C, MATLAB, React, HTML, CSS, and JavaScript. As I approach graduation, I am excited to begin my master's degree in physics, focusing on machine learning.
 
-- **🎓 Education:** Aerospace Engineering at ITA (GPA: 8.9) - Expected Graduation: Dec 2024
+- **🎓 Education:** Aerospace Engineering at ITA (GPA: 8.9) - Graduation Date: Dec 2024
 - **🌍 Cultural Exchange:** South Africa - C2 Level English Certification
 - **📫 Contact:** lugaleonardo@gmail.com | +55 (41) 99659-2226
 
