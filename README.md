@@ -1,6 +1,6 @@
 # Leonardo Antonio Lugarini
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Lugarini-blue)](https://www.linkedin.com/in/leonardo-lugarini-7769911a6) [![GitHub](https://img.shields.io/badge/GitHub-leoluga-lightgrey)](https://github.com/leoluga) [![Curriculum Lattes](https://img.shields.io/badge/Curriculum%20Lattes-Leonardo%20Lugarini-green)](http://lattes.cnpq.br/8964818253427490)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Lugarini-blue)]([https://www.linkedin.com/in/leonardo-lugarini-7769911a6](https://www.linkedin.com/in/leonardo-antonio-lugarini-7769911a6/)) [![GitHub](https://img.shields.io/badge/GitHub-leoluga-lightgrey)](https://github.com/leoluga) [![Curriculum Lattes](https://img.shields.io/badge/Curriculum%20Lattes-Leonardo%20Lugarini-green)](http://lattes.cnpq.br/8964818253427490)
 
 ## 👨‍🎓 About Me
 
